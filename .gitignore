@@ -1,0 +1,4 @@
+model-store/*
+logs/*
+mar-files/xtts_artifacts/*
+mar-files/service_account.json

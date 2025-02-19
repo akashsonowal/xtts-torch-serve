@@ -1,0 +1,8 @@
+torchserve 
+torch-model-archiver
+nvgpu
+git+https://github.com/coqui-ai/TTS.git
+transformers==4.37.1
+deepspeed
+google-cloud-storage
+pydub
